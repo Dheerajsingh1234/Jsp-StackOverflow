@@ -1,0 +1,18 @@
+SMAP
+addquestionform_jsp.java
+JSP
+*S JSP
+*F
++ 0 addquestionform.jsp
+addquestionform.jsp
+*L
+1,28:46
+28,470:74
+498,5:545
+502:550
+503:551,6
+504,3:557
+507,2:561
+508,78:563
+585:641
+*E
